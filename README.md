@@ -25,3 +25,5 @@ The accuracy of the model is 92% and f_score is 0.67
 ###### • KNN classifier
 ###### • ANOVA based feature selection method
 ###### • L1 regularizer
+
+> Dataset link : https://drive.google.com/file/d/1gML6OVGEJ8d_7sjyxyISbXvjdAwvrkZ1/view?usp=sharing
